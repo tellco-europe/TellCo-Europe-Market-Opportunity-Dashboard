@@ -7,3 +7,4 @@ Where to focus: ranks target countries and outlines a recommended entry sequence
 Why and which sector: quantifies the core commerical proposition by charting the gap between current customer power costs and hybrid solar alternatives, alongside a sector priority heatmap.
 
 
+To open dashboard: streamlit run app.py
